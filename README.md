@@ -2,5 +2,4 @@
 - 🧑🏻‍💻 I'm Back-end Developer
 - 💎 Php, Mysql, Api, Python
 - 🧢 My hobby is coding
-- 📞 Contact: +998914233158
 - 📧 Gmail: lidercoderuz@gmail.com
